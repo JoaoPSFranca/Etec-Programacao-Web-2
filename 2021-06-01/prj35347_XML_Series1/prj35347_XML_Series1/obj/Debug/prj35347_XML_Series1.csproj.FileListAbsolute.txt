@@ -1,0 +1,10 @@
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.PWII\Licoes\2021-06-01\prj35347_XML_Series1\prj35347_XML_Series1\bin\prj35347_XML_Series1.dll
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.PWII\Licoes\2021-06-01\prj35347_XML_Series1\prj35347_XML_Series1\bin\prj35347_XML_Series1.pdb
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.PWII\Licoes\2021-06-01\prj35347_XML_Series1\prj35347_XML_Series1\obj\Debug\prj35347_XML_Series1.dll
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.PWII\Licoes\2021-06-01\prj35347_XML_Series1\prj35347_XML_Series1\obj\Debug\prj35347_XML_Series1.pdb
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.PWII\Licoes\2021-06-01\prj35347_XML_Series1\prj35347_XML_Series1\obj\Debug\prj35347_XML_Series1.csprojResolveAssemblyReference.cache
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.PWII\Licoes\2021-06-01\prj35347_XML_Series1\prj35347_XML_Series1\bin\prj35347_XML_Series1.dll
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.PWII\Licoes\2021-06-01\prj35347_XML_Series1\prj35347_XML_Series1\bin\prj35347_XML_Series1.pdb
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.PWII\Licoes\2021-06-01\prj35347_XML_Series1\prj35347_XML_Series1\obj\Debug\prj35347_XML_Series1.csprojResolveAssemblyReference.cache
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.PWII\Licoes\2021-06-01\prj35347_XML_Series1\prj35347_XML_Series1\obj\Debug\prj35347_XML_Series1.dll
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.PWII\Licoes\2021-06-01\prj35347_XML_Series1\prj35347_XML_Series1\obj\Debug\prj35347_XML_Series1.pdb

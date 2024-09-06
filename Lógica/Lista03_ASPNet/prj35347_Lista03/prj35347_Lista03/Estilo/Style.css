@@ -1,0 +1,394 @@
+﻿*{margin:0px; padding: 0px; text-decoration: none;}
+
+body {
+    background-color: #010a1c;
+}
+
+h2{
+    text-align: center;
+}
+
+.a{
+    width: 96vw;
+    margin: 6vh auto;
+}
+
+.b{
+    margin: auto;
+    width: 25vw;
+    margin-bottom: 0px;
+}
+
+#c{
+    color: #003ab6;
+    text-align: center;
+}
+
+.d{
+    position: absolute;
+    top: 1vh;
+    left: 1vw;
+}
+
+#e{
+    font-size: 5vh;
+    color: #f5f5f5;
+    text-align: center;
+}
+
+#e:hover{
+    color: #bd0008;
+}
+
+.g{
+    width: 11vw;
+    margin: auto;
+}
+
+.h{
+    background-color: #002e92;
+    height: 9.5vh;
+    padding-top: 2.5vh;
+}
+
+#i, .k{
+    font-size: 5vh;
+    color: #f5f5f5;
+    text-align: center;
+    display: inline-block;
+}
+
+#i:hover, .k:hover{
+    color: #bd0008;
+}
+
+.j{
+    width: 43vw;
+}
+
+.k{
+    margin-right: 5vw;
+}
+
+
+.l{
+    margin: 24vh auto;
+    width: 45vw;
+    height: 27vh;
+    padding: 3vh;
+    background-color: #003ab6;
+    border-radius: 3vh;
+    border: 1.5vh double #002575;
+}
+
+.m{
+    width: 25vw;
+    margin: auto;
+}
+
+.n{
+    height: 36vh;
+    margin: 21.5vh auto;
+}
+
+.p{
+    display: inline-block;
+}
+
+.q{
+    display: inline-block;
+}
+
+.t{
+    margin: auto;
+    margin-top: 24.5vh;
+    width: 12vw;
+}
+
+.btn{
+    background-color: #0047e4;
+    border: 1vh double #002575;
+    border-radius: 2vh;
+    padding: 5px;
+    width: 12vw;
+    margin: auto;
+}
+
+.btn:hover{
+    background-color: #002575;
+    color: #f5f5f5;
+    cursor: pointer;
+}
+
+.EX1, .EX2{
+    display: inline-block;
+    width: 46.5vw;
+    height: 55vh;
+    margin-right: 2vw;
+    border-radius: 2vw;
+    background-size: cover;
+    background-repeat: no-repeat;
+}  
+
+.EX1{
+    background-image: url(../images/Combinacoes_Desfocada.jpg);
+}
+
+.EX1:hover{
+    background-image: url(../images/Combinacoes_Focada.jpg);
+}
+
+.EX2{
+    background-image: url(../images/Randomizacao_Desfocada.jpg);
+    margin: 0px;
+}
+
+.EX2:hover{
+    background-image: url(../images/Randomizacao_Focada.jpg);
+}
+
+.txt{
+    width: 13vw;
+    padding: 5px;
+    border-radius: 2vh;
+    border: 3px solid #002575;
+    text-align: center;
+    background-color: #f5f5f5;
+}
+
+#ltbNum{
+    margin: auto;
+    margin-bottom: 0px;
+    width: 25vw;
+    height: 20vh;
+    background-color: #c0c0c0;
+    text-align: center;
+    font-size: 2.5vh;
+}
+
+#txtQuan{
+    background-color: #c0c0c0;
+}
+
+#txtResp{
+    margin-top: 2vh;
+    background-color: red;
+    font-size: 3vh;
+}
+
+#txtResp:hover{
+    cursor: default; 
+}
+
+@media only screen and (max-width: 450px){
+    
+    .a{
+        margin-bottom: 2vh;
+    }
+    
+    .b{
+        width: 60vw;
+    }
+    
+    .d{
+        top: 4vh;
+        left: 4vw;
+    }
+    
+    .g{
+        width: 31vw;
+    }
+    
+    #i, .k{
+        font-size: 4.5vh;
+    }
+    
+    .j{
+        width: 34vw;
+    }
+        
+    .k{
+        margin-bottom: 1vh;
+    }
+    
+    .l{
+        width: 88vw;
+        height: 52vh;
+        padding: 1vh;
+        margin: 13vh auto;
+    }
+    
+    .m{
+        width: 80vw;
+    }
+    
+    .n{
+        height: 45vh;
+        margin: 16.5vh auto;
+    }
+    
+    .o{
+        height: 14vh;
+    }
+    
+    .p{
+        margin: auto;
+    }
+    
+    .q{
+        width: 43vw;
+        margin: auto;
+        display: inherit;
+        margin-top: 2vh;
+    }
+    
+    .t{
+        width: 39vw;
+    }
+    
+    .btn{
+        width: 39vw;
+        padding: 10px;
+        font-size: 2.5vh;
+    }
+    
+    .EX1, .EX2{
+        margin-left: 1vw;
+        width: 94vw;
+        margin-bottom: 3vh;
+        border-radius: 5vh;
+        height: 57vh;
+    }
+    
+    .txt{
+        width: 36vw;
+        padding: 10px;
+    }
+    
+    #ltbNum{
+        width: 60vw;
+    }
+    
+    #txtResp{
+        margin-top: 0px;
+        width: 88vw;
+        height: 10vh;
+        font-size: 3.5vh;
+    }
+
+}
+
+@media only screen and (min-width: 451px) and (max-width: 850px){
+    
+    .a{
+        margin-bottom: 2vh;
+    }
+    
+    .b{
+        width: 60vw;
+    }
+    
+    .d{
+        top: 4vh;
+        left: 4vw;
+    }
+    
+    #e{
+        font-size: 5vw;
+    }
+    
+    .g{
+        width: 18vw;
+    }
+    
+    .h{
+        height: 9.5vw;
+    }
+    
+    #i, .k{
+        font-size: 7.5vh;
+    }
+    
+    .j{
+        width: 57vw;
+        margin-top: 5vh;
+    }
+
+    .k{
+        margin-bottom: 1vh;
+    }
+            
+    .l{
+        width: 88vw;
+        height: 71vh;
+        padding: 1vh;
+        margin: 12vh auto;
+    }
+
+    .m{
+        width: 45vw;
+        margin-top: -5vh;
+    }
+    
+    .n{
+        height: 50vh;
+        margin: 10.5vh auto;
+    } 
+
+    .o{
+        height: 12vw;
+    }
+
+    .p{
+        margin: auto;
+        display: inherit;
+        width: 81vw;
+    }
+
+    .q{
+        width: 43vw;
+        margin: auto;
+        display: inherit;
+        margin-top: 2vh;
+    } 
+    
+    .r{
+        margin-top: -2vh;
+    }
+    
+    .t{
+        margin-top: 40vh;
+        width: 39vh;
+    }
+    
+    .btn{
+        width: 39vh;
+        padding: 10px;
+        font-size: 2.5vw;
+    }
+    
+    .EX1, .EX2{
+        margin-left: 1vw;
+        width: 94vw;
+        margin-bottom: 3vw;
+        border-radius: 5vh;
+        height: 92vh;
+    }
+    
+    .txt{
+        width: 36vw;
+        padding: 10px;
+    }
+    
+    #ltbNum{
+        width: 60vw;
+        font-size: 6vh;
+    }
+    
+    #txtResp{
+        margin-top: 0px;
+        width: 88vw;
+        height: 10vh;
+        font-size: 3vw;
+    }
+}

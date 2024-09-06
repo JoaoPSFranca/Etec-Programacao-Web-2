@@ -1,0 +1,1360 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<SERIES>
+
+  <SERIE>
+    <Codigo>1</Codigo>
+    <Nome> Flash </Nome>
+    <Original> The Flash </Original>
+    <Ano> 2014 </Ano>
+    <Categorias>
+      <Categoria>Ação</Categoria>
+      <Categoria>Drama</Categoria>
+      <Categoria>Ficção Científica</Categoria>
+    </Categorias>
+    <Foto>TheFlash.jpg</Foto>
+    <Sinopse> O investigador forense Barry Allen (Grant Gustin) sofre um acidente em seu laboratório: ele leva um banho de produtos químicos e, em seguida, é atingido por um raio. A partir disso, ele se torna capaz de canalizar os poderes do "Campo de Velocidade" e de se locomover com uma rapidez sobre-humana. De máscara e uniforme vermelhos, Barry assume a identidade do super-herói Flash e começa a usar suas habilidades para patrulhar Central City, contando com a ajuda dos cientistas da S.T.A.R. Labs. Ao mesmo tempo que detém vilões, ele procura descobrir quem está por trás do assassino de sua mãe. </Sinopse>
+    <Episodios> 92 </Episodios>
+    <Temporadas> 7 </Temporadas>
+
+    <Temps>
+      
+      <Temp>
+        <Numero>1</Numero>
+        
+        <Eps>
+          <Ep>
+            <EpNumero>S01E01</EpNumero>
+            <EpNome>Piloto</EpNome>
+            <EpOriginal>Pilot</EpOriginal>
+            <EpData>07/10/2014</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Após ser atingido por um raio durante a explosão de um acelerador de particulas e passar nove meses em coma, Barry Allen acorda e percebe que o acidente lhe deu supervelocidade. Enquanto tenta assimilar sua nova condição, ele precisa aprender a controlar seus poderes quando outro meta-humano ameaça Central City. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+      
+          <Ep>
+            <EpNumero>S01E02</EpNumero>
+            <EpNome>O Homem Mais Rápido Vivo</EpNome>
+            <EpOriginal>Fastest Man Alive</EpOriginal>
+            <EpData>14/10/2014</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Barry acompanha Iris em um evento, mas quando homens armados invadem o local, o herói percebe que ainda precisa lidar com as consequências de seus poderes. Mais tarde, a equipe do S.T.A.R Labs descobre que tudo foi obra de um meta-humano capaz de criar múltiplos de si mesmo, enquanto Iris fica cada vez mais intrigada pelo 'borrão'. </EpSinopse>
+            <EpObs> Sed a quam eu lorem pretium fringilla. Vestibulum facilisis neque volutpat faucibus viverra. </EpObs>
+          </Ep>
+      
+          <Ep>
+            <EpNumero>S01E03</EpNumero>
+            <EpNome>O Que Não Dá Para Ultrapassar</EpNome>
+            <EpOriginal>Things You Can't Outrun</EpOriginal>
+            <EpData>21/10/2014</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Barry, Joe e a equipe de S.T.A.R Labs trabalham juntos para lidar com um meta-humano com poderes de gases tóxicos. Uma situação que leva Caitlin a relembrar a dolorosa perda de seu noivo, Ronnie. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+      
+          <Ep>
+            <EpNumero>S01E04</EpNumero>
+            <EpNome>Trapaceando</EpNome>
+            <EpOriginal>Going Rogue</EpOriginal>
+            <EpData>28/10/2014</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Leonard Snart, um inteligente criminoso, rouba uma arma de gelo capaz de matar o Flash. Já Joe não aceita o relacionamento entre Iris e Eddie. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+        </Eps>
+      
+      </Temp>
+
+      <Temp>
+        <Numero>2</Numero>
+
+        <Eps>
+          <Ep>
+            <EpNumero>S02E01</EpNumero>
+            <EpNome>O Homem Que Salvou Central City</EpNome>
+            <EpOriginal>The Man Who Saved Central City</EpOriginal>
+            <EpData>06/10/2015</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Ainda atormentado pelas perdas após a abertura da singularidade, Barry decide trabalhar sozinho para proteger a cidade. Mas a chegada de um meta-humano o faz reavaliar seus planos, enquanto Cisco ajuda Joe em uma força-tarefa. </EpSinopse>
+            <EpObs> Sed a quam eu lorem pretium fringilla. Vestibulum facilisis neque volutpat faucibus viverra. </EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S02E02</EpNumero>
+            <EpNome>Flash de Dois Mundos</EpNome>
+            <EpOriginal>Flash of Two Worlds</EpOriginal>
+            <EpData>13/10/2015</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Jay Garrick, um misterioso homem vindo da Terra-2, aparece na S.T.A.R Labs para alertar sobre a presença de um vilão chamado Zoom. Barry tem problemas para confiar nele, enquanto Joe precisa lidar com Patty, uma policial determinada a fazer de sua força-tarefa de meta-humanos. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S02E03</EpNumero>
+            <EpNome>Família de Trapaceiros</EpNome>
+            <EpOriginal>Family of Rogues</EpOriginal>
+            <EpData>20/10/2015</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Barry e a equipe do S.T.A.R Labs formam uma aliança com Lisa Snart ao saber que Capitão Frio desapareceu, mas logo descobrem que nem tudo é o que parece. Já Joe é obrigado a tomar uma difícil decisão. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S02E04</EpNumero>
+            <EpNome>A Fúria do Nuclear</EpNome>
+            <EpOriginal>The Fury of Firestorm</EpOriginal>
+            <EpData>27/10/2015</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Com a vida de Martin Stein em risco, a equipe da S.T.A.R Labs precisa achar outra combinação para formar Nuclear, mas Caitlin mostra preocupações quando o jovem Jackson ser a pessoa ideal para tarefa. Paralelamente, Barry se aproxima de Patty. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+        </Eps>
+        
+      </Temp>
+
+      <Temp>
+        <Numero>3</Numero>
+
+        <Eps>
+          <Ep>
+            <EpNumero>S03E01</EpNumero>
+            <EpNome>Ponto de Ignição</EpNome>
+            <EpOriginal>Flashpoint</EpOriginal>
+            <EpData>04/10/2016</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Barry finalmente consegue ser um cara normal, ao lado dos seus pais e se aproximando cada vez mais de Iris West. Sua vida tranquila, no entanto, não dura muito tempo. O Flash Reverso avisa que haverá graves consequências caso seu inimigo não retorne à sua vida como o Flash. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S03E02</EpNumero>
+            <EpNome>Paradoxo</EpNome>
+            <EpOriginal>Paradox</EpOriginal>
+            <EpData>11/10/2016</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Barry descobre que o impacto do Flashpoint é muito maior do que ele pensara. Ele também conhece seu novo colega de trabalho, que parece não gostar muito dele. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S03E03</EpNumero>
+            <EpNome>Magenta</EpNome>
+            <EpOriginal>Magenta</EpOriginal>
+            <EpData>18/10/2016</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Jesse e Wells retornam para a cidade, ele já enfrentam um novo ataque. A cidade é destruída por um nomo meta-humana, capaz de controlar metal. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S03E04</EpNumero>
+            <EpNome>Os Novos Trapaceiros</EpNome>
+            <EpOriginal>The New Rogues</EpOriginal>
+            <EpData>25/10/2016</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Mirror Master se junta a um velho parceiro, o Top. Juntos, eles vão se envolver em sérios problemas. </EpSinopse>
+            <EpObs> Sed a quam eu lorem pretium fringilla. Vestibulum facilisis neque volutpat faucibus viverra. </EpObs>
+          </Ep>
+        </Eps>
+        
+      </Temp>
+
+      <Temp>
+        <Numero>4</Numero>
+
+        <Eps>
+          <Ep>
+            <EpNumero>S04E01</EpNumero>
+            <EpNome>O Flash Renascido</EpNome>
+            <EpOriginal>The Flash Reborn</EpOriginal>
+            <EpData>10/10/2017</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Iris esteve auxiliando o Time Flash em Central City durante seis meses, mas se recusando a sofrer por Barry. Um Samurai voador com superpoderes aparece em Central City, ameaçando a cidade se o verdadeiro Flash não o enfrentar. Cisco revela que elaborou uma maneira de trazer Barry de volta sem desestabilizar a Força de Aceleração e rastreia Caitlin para conseguir sua ajuda. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S04E02</EpNumero>
+            <EpNome>Sinais Mistos</EpNome>
+            <EpOriginal>Mixed Signals</EpOriginal>
+            <EpData>17/10/2017</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Quando Barry, Joe e Cisco investigam uma cena de crime, eles descobrem restos de um código misterioso. Cisco apresenta para Barry um traje tecnologicamente avançado, destinado a facilitar suas atividades. Ele o testa, tentando salvar alguém de um carro de fenda, o que foi causado pelo meta-humano Ramsey Deacon. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S04E03</EpNumero>
+            <EpNome>Que a Sorte Seja uma Mulher</EpNome>
+            <EpOriginal>Luck Be a Lady</EpOriginal>
+            <EpData>24/10/2017</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Em flashbacks, o Pensador observa Becky Sharpe, uma mulher com uma má sorte aparentemente eterna, e determina que ela será facilmente manipulada. No presente, Becky rouba um banco, e consegue fugir quando Barry escorrega em bolinhas de gude. Harry chega da Terra-2 e diz para Wally que Jesse decidiu se separar para focar em seu vigilantismo. </EpSinopse>
+            <EpObs> Sed a quam eu lorem pretium fringilla. Vestibulum facilisis neque volutpat faucibus viverra. </EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S04E04</EpNumero>
+            <EpNome>Longa Jornada Noite Adentro</EpNome>
+            <EpOriginal>Elongated Journey Into Night</EpOriginal>
+            <EpData>31/10/2017</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> O pai de Cigana, Breacher, ataca Cisco, prometendo caçá-lo e matá-lo em 24 horas, e permitindo o romance deles se ele sobreviver. O Time Flash descobre que o motorista do ônibus foi assassinado, decidindo rastrear outro passageiro, Ralph Dibny, ex-detetive corrupto do Departamento de Polícia de Central City que foi exposto por Barry e atualmente é um detetive particular ruim. Quando dois bandidos atacam Dibny, é revelado que ele tem poderes de se esticar. Caitlin estabiliza seus poderes com um soro. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+        </Eps>
+        
+      </Temp>
+
+      <Temp>
+        <Numero>5</Numero>
+
+        <Eps>
+          <Ep>
+            <EpNumero>S05E01</EpNumero>
+            <EpNome>Nora</EpNome>
+            <EpOriginal>Nora</EpOriginal>
+            <EpData>09/10/2018</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> O Time Flash encontra a filha de Barry e Iris do futuro, Nora. Enquanto Iris expressa excitação, Barry está preocupado que ela poderia alterar a linha do tempo com base em seus próprios erros com a viagem no tempo. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S05E02</EpNumero>
+            <EpNome>Bloqueado</EpNome>
+            <EpOriginal>Blocked</EpOriginal>
+            <EpData>16/10/2018</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Barry luta para treinar a exagerada Nora, que é contratada como estagiária da CSI para passar mais tempo com o pai, para o desconforto de Iris. Caitlin e Ralph tentam ajudar Cisco no rescaldo de seu rompimento com Cigana, com Cisco eventualmente aceitando que ela não é com quem ele deveria estar. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S05E03</EpNumero>
+            <EpNome>A Morte do Vibro</EpNome>
+            <EpOriginal>The Death of Vibe</EpOriginal>
+            <EpData>23/10/2018</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> A equipe recruta Harrison Sherloque Wells para ajudá-los a pegar Cicada, que Nora revela que é imparável no futuro. Caitlin e Ralph confrontam a mãe dela, que nega a falsificação do atestado de óbito do marido. </EpSinopse>
+            <EpObs> Sed a quam eu lorem pretium fringilla. Vestibulum facilisis neque volutpat faucibus viverra. </EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S05E04</EpNumero>
+            <EpNome>Notícias de Última Hora</EpNome>
+            <EpOriginal>News Flash</EpOriginal>
+            <EpData>30/10/2018</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> A equipe descobre artigos sobre XS, escritos por um dos ex-colegas de Iris, Spencer Young, todos publicados pouco antes de os eventos acontecerem. Iris entra em contato com Spencer, pedindo que ela se abstenha de colocar XS em seus artigos para proteger Nora. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+        </Eps>
+        
+      </Temp>
+
+      <Temp>
+        <Numero>6</Numero>
+
+        <Eps>
+          <Ep>
+            <EpNumero>S06E01</EpNumero>
+            <EpNome>Salto no Vazio</EpNome>
+            <EpOriginal>Into The Void</EpOriginal>
+            <EpData>08/10/2019</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Momentos depois de perder sua filha Nora West-Allen, Barry e Iris encontram sua mensagem destruída. Quatro meses depois, eles aparentemente chegaram a um acordo com o que aconteceu, mas os outros não estão convencidos. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S06E02</EpNumero>
+            <EpNome>O Clarão de um Relâmpago</EpNome>
+            <EpOriginal>A Flash of the Lightning</EpOriginal>
+            <EpData>15/10/2019</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Recusando-se a perder as esperanças, Barry decide viajar no tempo para o dia seguinte ao de seu desaparecimento para descobrir o que realmente acontece durante a crise. Recusando-se a perder as esperanças, Barry decide viajar no tempo para o dia seguinte ao de seu desaparecimento para descobrir o que realmente acontece durante a crise. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S06E03</EpNumero>
+            <EpNome>Um Morto que Corre</EpNome>
+            <EpOriginal>Dead Man Running</EpOriginal>
+            <EpData>22/10/2019</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Rosso inadvertidamente transforma o pistoleiro Mitch Romero em um zumbi, levando-o a atacar e matar sua própria tripulação em busca de matéria escura para se fortalecer. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S06E04</EpNumero>
+            <EpNome>O Sangue Vai Correr</EpNome>
+            <EpOriginal>There Will Be Blood</EpOriginal>
+            <EpData>29/10/2019</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Enquanto Rosso rouba mais sangue para sua cura, flashbacks mostram como ele cuidou de sua mãe antes que ela fosse diagnosticada com HLH e como ele ficou chateado com ela por aparentemente desistir antes de morrer. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+        </Eps>
+        
+      </Temp>
+
+      <Temp>
+        <Numero>7</Numero>
+
+        <Eps>
+          <Ep>
+            <EpNumero>S07E01</EpNumero>
+            <EpNome>Tudo Está Bem Quando Termina em Wells</EpNome>
+            <EpOriginal>All's Well That Ends Wells</EpOriginal>
+            <EpData>02/03/2021</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Quando um experimento para salvar a velocidade de Barry sai pela culatra, Nash Wells procura uma maneira de salvar o Flash e surge com um plano perigoso. Enquanto isso, Iris faz uma descoberta surpreendente dentro do Mirrorverse e Cecile enfrenta Rosa Dillon. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S07E02</EpNumero>
+            <EpNome>A Velocidade do Pensamento</EpNome>
+            <EpOriginal>The Speed of Thought</EpOriginal>
+            <EpData>09/03/2021</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Quando Barry de repente ganha o poder do pensamento rápido, ele tenta usar seu novo dom para salvar Iris . Embora Barry esteja entusiasmado com seu novo poder, a Cisco hesita em confiar nele. Enquanto isso, Eva deve enfrentar uma verdade devastadora. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S07E03</EpNumero>
+            <EpNome>Mãe</EpNome>
+            <EpOriginal>Mother</EpOriginal>
+            <EpData>16/03/2021</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Conforme Eva se torna mais poderosa, Barry e a equipe devem encontrar uma maneira de detê-la. Eles ficam chocados quando uma velha amiga - Sue Dearbon arrisca sua vida para ajudar. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S07E04</EpNumero>
+            <EpNome>Central City Forte</EpNome>
+            <EpOriginal>Central City Strong</EpOriginal>
+            <EpData>23/03/2021</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> O Flash deve lidar com o retorno repentino de Abra Kadabra à Cidade Central . O vilão está de volta com uma vingança e contas a acertar. Enquanto isso, Allegra lida com uma situação complicada e Caitlin suspeita que algo está errado com Frost . Iris é forçada a olhar para um momento sombrio de seu passado. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+        </Eps>
+        
+      </Temp>
+      
+    </Temps>
+    
+  </SERIE>
+
+  <SERIE>
+    <Codigo>2</Codigo>
+    <Nome> Arqueiro </Nome>
+    <Original> Arrow </Original>
+    <Ano> 2012 </Ano>
+    <Categorias>
+      <Categoria>Ação</Categoria>
+      <Categoria>Aventura</Categoria>
+      <Categoria>Mistério</Categoria>
+    </Categorias>
+    <Foto>Arrow.jpg</Foto>
+    <Sinopse> Playboy, milionário e mulherengo, Oliver Queen (Stephen Amell) está presumivelmente morto há 5 anos, quando um acidente de iate causou o desaparecimento dele, de seu pai, Robert (Jamey Sheridan), e Sara Lance, irmã de sua então namorada Laurel (Katie Cassidy). Mas Ollie sobreviveu e, preso em uma ilha, ele aprendeu a lutar por sua vida. De volta à civilização em Starling City, ele é um homem mudado e está decidido a honrar a memória do pai e livrar a cidade da corrupção. Disfarçado, ele usa as habilidades que aprendeu durante seu tempo de reclusão para isso, e ao mesmo tempo precisa esconder sua nova identidade da mãe, Moira (Susanna Thompson), da irmã, Thea (Willa Holland) e dos amigos. </Sinopse>
+    <Episodios> 170 </Episodios>
+    <Temporadas> 8 </Temporadas>
+
+    <Temps>
+      
+      <Temp>
+        <Numero>1</Numero>
+
+        <Eps>
+          <Ep>
+            <EpNumero>S01E01</EpNumero>
+            <EpNome>Piloto</EpNome>
+            <EpOriginal>Pilot</EpOriginal>
+            <EpData>10/10/2012</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Após cinco anos em uma ilha deserva, Oliver retorna a Starling City para colocar em prática suas táticas de sobrevivência e honrar o último desejo de seu pai. Mas, antes, ele precisa organizar sua vida, quando descobre que sua ex-namorada o odeia, sua mãe se casou novamente e sua irmã mais nova está usando drogas. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S01E02</EpNumero>
+            <EpNome>Honra Teu Pai</EpNome>
+            <EpOriginal>Honor Thy Father</EpOriginal>
+            <EpData>17/10/2012</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Laurel tenta mover um processo contra MArtin Somers, traficante de drogas que está na lista de Oliver. Enquanto isso, ele tenta se reconectar com a família ao mesmo tempo que recusa os esforços da mãe de o colocar na presidência da Queen Consilidated.  </EpSinopse>
+            <EpObs> Sed a quam eu lorem pretium fringilla. Vestibulum facilisis neque volutpat faucibus viverra. </EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S01E03</EpNumero>
+            <EpNome>Lone Gunmen</EpNome>
+            <EpOriginal>Pistoleiros Solitários</EpOriginal>
+            <EpData>24/10/2012</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Um master assassino chega à cidade e mata um dos empresários que estava na lista de Oliver. Enquanto o persegue, Oliver descobre que deve proteger seu padrasto. Thea e Moira começam a resolver suas diferenças, e Tommy conta para o amigo que ele e Laurel estiveram envolvidos durante a sua ausência. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S01E04</EpNumero>
+            <EpNome>Um Homem Inocente</EpNome>
+            <EpOriginal>An Innocent Man</EpOriginal>
+            <EpData>31/10/2012</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Quando Oliver descobre que um homem inocente foi acusado por alguém de sua lista, ele procura a ajuda de Laurel para conseguir uma confissão. Enquanto isso, Diggle considera a oferta de trabalho de Oliver, e Walter descobre que Moira fez uma retirada dos fundos da companhia, às escondidas. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+        </Eps>
+        
+      </Temp>
+    
+      <Temp>
+        <Numero>2</Numero>
+
+        <Eps>
+          <Ep>
+            <EpNumero>S02E01</EpNumero>
+            <EpNome>Cidade de Heróis</EpNome>
+            <EpOriginal>City of Heroes</EpOriginal>
+            <EpData>09/10/2013</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Um ano se passou desde a morte de Tommy e a destruição dos Glades, e Oliver está vivendo na ilha sozinho. Diggle e Felicity o convencem a voltar para Starling City, mas ele se recusa a vestir o capuz. </EpSinopse>
+            <EpObs> Sed a quam eu lorem pretium fringilla. Vestibulum facilisis neque volutpat faucibus viverra. </EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S02E02</EpNumero>
+            <EpNome>Identidade</EpNome>
+            <EpOriginal>Identity</EpOriginal>
+            <EpData>16/10/2013</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Criminosos estão roubando os medicamentos que eram para as vítimas da explosão nos Glades, e Oliver decide que o Capuz deve por um fim nos roubos. Porém, nem tudo sai como ele imaginava, qunado o político local Sebastian Blood o acusa de ser responsável pelos atos de sua família. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S02E03</EpNumero>
+            <EpNome>Bonecas Despedaçadas</EpNome>
+            <EpOriginal>Broken Dolls</EpOriginal>
+            <EpData>23/10/2013</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Quando um ameaçador criminoso do passado de Lance escapa da prisão, Felicity se oferece como ísca para que o Arrow possa capturá-lo... mas será que vai dar certo?. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S02E04</EpNumero>
+            <EpNome>Prova Severa</EpNome>
+            <EpOriginal>Crucible</EpOriginal>
+            <EpData>30/10/2013</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Oliver descobre que um homem intitulado "The Mayor" (O Prefeito) está levando armas ilegais para os Glades, então organiza um evento para ajudar a limpar a cidade. O Prefeito, porém, invade o evento com sua gangue e acaba ferindo Sin. A Canário fica furiosa quando descobre que sua amiga está hospitalizada, e busca vingança. Enquanto isso, Felicty deixa Oliver atordoado com informações sobre a Canário, Donner convida Laurel para jantar, e Diggle reencontra uma velha amiga. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+        </Eps>
+        
+      </Temp>
+
+      <Temp>
+        <Numero>3</Numero>
+
+        <Eps>
+          <Ep>
+            <EpNumero>S03E01</EpNumero>
+            <EpNome>A Calmaria</EpNome>
+            <EpOriginal>The Calm</EpOriginal>
+            <EpData>08/10/2014</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Com os crimes em baixa, Oliver decide dar um tempo e convida Felicity para um jantar. Porém, eles são interrompidos por um novo traficante que assume o lugar do Conde Vertigo, e mira na morte do Vigilante. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S03E02</EpNumero>
+            <EpNome>Sara</EpNome>
+            <EpOriginal>Sara</EpOriginal>
+            <EpData>15/10/2014</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Oliver e sua equipe tentam encontrar o arqueiro que alvejou Sara, e descobrem um atirador que atende por Komodo, e tem conexões com a Liga dos Assassinos. Enquanto isso, Ray continua tentando contratar Felicity, e Roy pondera se deve ou não contar a Oliver sobre Thea. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S03E03</EpNumero>
+            <EpNome>Corto Maltese</EpNome>
+            <EpOriginal>Corto Maltese</EpOriginal>
+            <EpData>22/10/2014</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Felicity rastreia Thea até uma ilha em Corto Maltese. Roy, Oliver e Diggle tentam levá-la de volta, e Lyla pede a Diggle para investigar o desaparecimento de Mark Shaw, um agente da ARGUS. Laurel tenta canalizar suas frustações. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S03E04</EpNumero>
+            <EpNome>O Mago</EpNome>
+            <EpOriginal>The Magician</EpOriginal>
+            <EpData>29/10/2014</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Nyssa acredita que Malcolm matou Sara e busca vingança. Oliver descobre e tenta impedí-la, apesar das insistências de Laurel. Thea retorna a Starling City e se acomoda... até que Nyssa descobre que ela é filha de Malcolm. </EpSinopse>
+            <EpObs> Sed a quam eu lorem pretium fringilla. Vestibulum facilisis neque volutpat faucibus viverra. </EpObs>
+          </Ep>
+        </Eps>
+        
+      </Temp>
+
+      <Temp>
+        <Numero>4</Numero>
+
+        <Eps>
+          <Ep>
+            <EpNumero>S04E01</EpNumero>
+            <EpNome>Arqueiro Verde</EpNome>
+            <EpOriginal>Green Arrow</EpOriginal>
+            <EpData>07/10/2015</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Um novo inimigo chega à cidade, forçando Oliver a retornar a Starling City e iniciar uma nova batalha. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S04E02</EpNumero>
+            <EpNome>O Candidato</EpNome>
+            <EpOriginal>The Candidate</EpOriginal>
+            <EpData>14/10/2015</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Felicity pede ajuda de um funcionário para uma questão nos negócios. Oliver e Thea se preocupam com a candidatura de uma certa pessoa ao cargo de prefeito. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S04E03</EpNumero>
+            <EpNome>Restauração</EpNome>
+            <EpOriginal>Restoration</EpOriginal>
+            <EpData>21/10/2015</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> A crescente tensão entre Oliver e Diggle acabam colocando suas vidas em risco quando eles vão atrás de Damien Darhk e  um meta-humano. </EpSinopse>
+            <EpObs> Sed a quam eu lorem pretium fringilla. Vestibulum facilisis neque volutpat faucibus viverra. </EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S04E04</EpNumero>
+            <EpNome>Além da Redenção</EpNome>
+            <EpOriginal>Beyond Redemption</EpOriginal>
+            <EpData>28/10/2015</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Laurel lida com a repercussão de levar Sara para Nanda Parbat. Oliver pede um favor para o capitão Lance e se surpreende com uma descoberta. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+        </Eps>
+        
+      </Temp>
+
+      <Temp>
+        <Numero>5</Numero>
+
+        <Eps>
+          <Ep>
+            <EpNumero>S05E01</EpNumero>
+            <EpNome>Legado</EpNome>
+            <EpOriginal>Legacy</EpOriginal>
+            <EpData>05/10/2016</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Após a morte de Laurel e a saída de Diggle e Thea da equipe, Oliver segue protegendo os cidadãos de Star City. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S05E02</EpNumero>
+            <EpNome>Os Recrutas</EpNome>
+            <EpOriginal>The Recruits</EpOriginal>
+            <EpData>12/10/2016</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Oliver recruta Curtis, Wild Dog e Evelyn Sharp para integrar a equipe, mas seus métodos de treinamento são muito pesados para algumas pessoas. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S05E03</EpNumero>
+            <EpNome>Uma Questão de Confiança</EpNome>
+            <EpOriginal>A Matter of Trust</EpOriginal>
+            <EpData>19/10/2016</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> O Green Arrow enfrenta um poderoso traficante de drogas. </EpSinopse>
+            <EpObs> Sed a quam eu lorem pretium fringilla. Vestibulum facilisis neque volutpat faucibus viverra. </EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S05E04</EpNumero>
+            <EpNome>Penitência</EpNome>
+            <EpOriginal>Penance</EpOriginal>
+            <EpData>26/10/2016</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Oliver e Lyla integram uma missão secreta, enquanto Felicity desaprova o plano da equipe. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+        </Eps>
+        
+      </Temp>
+
+      <Temp>
+        <Numero>6</Numero>
+
+        <Eps>
+          <Ep>
+            <EpNumero>S06E01</EpNumero>
+            <EpNome>Recaída</EpNome>
+            <EpOriginal>Fallout</EpOriginal>
+            <EpData>12/10/2017</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Em flashbacks, Slade vai para o barco da A.R.G.U.S. sozinho enquanto os outros se refugiam no avião. Samantha foge para procurar William, e Thea a segue. Os músculos direitos do peito de John são feridos ao tentar resgatar Felicity. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S06E02</EpNumero>
+            <EpNome>Tributo</EpNome>
+            <EpOriginal>Tribute</EpOriginal>
+            <EpData>19/10/2017</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Oliver nega publicamente ser o Arqueiro Verde, enfrentando uma investigação da agente do FBI, Samandra Watson, assim como suas preocupações de perder William. Anatoli e seus homens sequestram um grupo de delegados Markovianos, exigindo resgate. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S06E03</EpNumero>
+            <EpNome>O Parente Mais Próximo</EpNome>
+            <EpOriginal>Next of Kin</EpOriginal>
+            <EpData>26/10/2017</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> O Time Arrow prende Faust, com John recusando disparar flechas. O Conselho da Cidade começa a elaborar uma lei anti-vigilante mais rígida. Dizendo para Dinah que conseguiu conter seus tremores, é revelado que John tem problemas de liderança quando alguns agentes desonestos da CIA começam a caçar um ex-membro para tentar silenciá-lo. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S06E04</EpNumero>
+            <EpNome>Reversão</EpNome>
+            <EpOriginal>Reversal</EpOriginal>
+            <EpData>02/11/2017</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Laurel começa a matar indivíduos aparentemente insignificantes, enquanto Felicity é abordada por Alena, que lhe diz que Cayden James está planejando algo que envolve centenas de milhões de vítimas por todo o mundo. Elas se encontram com o negociante do mercado negro "Amnésico" para comprar um "disco fantasma". </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+        </Eps>
+        
+      </Temp>
+
+      <Temp>
+        <Numero>7</Numero>
+
+        <Eps>
+          <Ep>
+            <EpNumero>S07E01</EpNumero>
+            <EpNome>Detento 4587</EpNome>
+            <EpOriginal>Inmate 4587</EpOriginal>
+            <EpData>15/10/2018</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Lacus enim ut luctus mattis dictum auctor risus facilisis, dolor libero blandit hac aliquam ante quisque, varius id consequat ut curabitur interdum nisl. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S07E02</EpNumero>
+            <EpNome>Os Caçadores do Arco Longo</EpNome>
+            <EpOriginal>The Longbow Hunters</EpOriginal>
+            <EpData>22/10/2018</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Os Caçadores do Arco Longo chegam em Star City e a equipe trabalha em conjunto com a A.R.G.U.S. para tentar impedi-los de roubar uma arma com capacidades destrutivas incríveis. Felicity e Diggle enfrentam suas prioridades ao lidar com Diaz, levando Felicity a fazer um acordo com a agente Watson. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S07E03</EpNumero>
+            <EpNome>Passando dos Limites</EpNome>
+            <EpOriginal>Crossing Lines</EpOriginal>
+            <EpData>29/10/2018</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Oliver exige que Brick honre o acordo e Brick diz que um detento conhecido como "O Demônio" é um homem de Diaz. Brick alega que devem organizar um encontro com o Demônio, mas Oliver é emboscado. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S07E04</EpNumero>
+            <EpNome>Nível Dois</EpNome>
+            <EpOriginal>Level Two</EpOriginal>
+            <EpData>05/11/2018</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Na prisão, Oliver é torturado psicologicamente e com o uso de drogas e outros dispositivos elétricos, com a intenção de "reprogramar" seu cérebro. Em Star City, Dinah prende Rene quando ela descobre que ele está dando apoio ao novo Arqueiro Verde, mas quando o vigilante salva a vida de Zoe, ela começa a confiar nele. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+        </Eps>
+        
+      </Temp>
+
+      <Temp>
+        <Numero>8</Numero>
+
+        <Eps>
+          <Ep>
+            <EpNumero>S08E01</EpNumero>
+            <EpNome>Starling City</EpNome>
+            <EpOriginal>Starling City</EpOriginal>
+            <EpData>15/10/2019</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Mar Novu / O Monitor envia Oliver Queen para a Terra-2 para recuperar partículas da Estrela Anã, mas elas são roubadas por Tommy Merlyn da Terra, que está tentando usá-las para destruir as Glades com sua própria versão do "Empreendimento". </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S08E02</EpNumero>
+            <EpNome>Bem-Vindo a Hong Kong</EpNome>
+            <EpOriginal>Welcome to Hong Kong</EpOriginal>
+            <EpData>22/10/2019</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> O Monitor traz a festa de Oliver para Hong Kong para buscar o biofísico Robert Wong, que foi forçado a recriar o Vírus Alfa / Ômega. No entanto, Laurel sai furiosa para consertar seu dispositivo de violação. </EpSinopse>
+            <EpObs> Sed a quam eu lorem pretium fringilla. Vestibulum facilisis neque volutpat faucibus viverra. </EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S08E03</EpNumero>
+            <EpNome>Salto de Fé</EpNome>
+            <EpOriginal>Leap of Faith</EpOriginal>
+            <EpData>29/10/2019</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Oliver segue para Nanda Parbat para obter mais informações sobre o Monitor de Talia al Ghul, onde ele se reúne com sua irmã Thea e a informa sobre sua morte iminente. Oliver, Thea e Talia planejam recuperar um antigo livro, mas são emboscados por Atenas e a Liga dos Assassinos. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S08E04</EpNumero>
+            <EpNome>Tempo Presente</EpNome>
+            <EpOriginal>Present Tense</EpOriginal>
+            <EpData>05/11/2019</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Time Arrow do futuro e do presente se encontram sem saber como o primeiro viajou até o presente. Mia e Connor decidem manter os detalhes de seu tempo em segredo dos outros, mas William antecipa que logo eles ficarão desconfiados. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+        </Eps>
+        
+      </Temp>
+      
+    </Temps>
+    
+  </SERIE>
+
+  <SERIE>
+    <Codigo>3</Codigo>
+    <Nome> Lendas do Amanhã da DC </Nome>
+    <Original> DC's Legends of Tomorrow </Original>
+    <Ano> 2016 </Ano>
+    <Categorias>
+      <Categoria>Aventura</Categoria>
+      <Categoria>Comédia</Categoria>
+      <Categoria>Ficção Científica</Categoria>
+    </Categorias>
+    <Foto>Legends_of_Tomorrow.png</Foto>
+    <Sinopse> Quando heróis sozinhos não são o suficiente... o mundo precisa de lendas. Já tendo visto o futuro, um deles irá desesperadamente tentar impedi-lo de acontecer. Rip Hunter (Arthur Darvill), o viajante do tempo, recebe a tarefa de reunir um disforme grupo de heróis e vilões para confrontar uma ameaça difícil de parar; uma que não ameaça somente a integridade do planeta, mas do próprio tempo como uma entidade. Será que este improvável time é capaz de combater uma ameaça imortal, diferente de tudo que eles conhecem? </Sinopse>
+    <Episodios> 46 </Episodios>
+    <Temporadas> 6 </Temporadas>
+
+    <Temps>
+
+      <Temp>
+        <Numero>1</Numero>
+
+        <Eps>
+          <Ep>
+            <EpNumero>S01E01</EpNumero>
+            <EpNome>Piloto, Parte 1</EpNome>
+            <EpOriginal>Pilot, Part 1</EpOriginal>
+            <EpData>21/01/2016</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> No ano de 2166, Vandal Savage conseguiu conquistar todo o planeta. Em uma tentativa de salvar a humanidade, o viajante do tempo Rip Hunter viaja para o ano de 2016 para organizar um grupo de super heróis e supervilões para formar uma equipe de elite para parar Savage: Ray Palmer, Sara Lance, Jefferson "Jax" Jackson, Dr. Martin Stein, Mick Rory, Leonard Snart, Carter Hall, e Kendra Saunders. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S01E02</EpNumero>
+            <EpNome>Piloto, Parte 2</EpNome>
+            <EpOriginal>Pilot, Part 2</EpOriginal>
+            <EpData>28/01/2016</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Após receber uma pista sobre o paradeiro de Vandal Savage, o time se infiltra em um acordo de munições tendo o professor Stein como líder. Cercados pelos criminosos mais durões do mundo, as coisas logo saem do controle, já que Savage percebe que eles não fazem parte dali. </EpSinopse>
+            <EpObs> Sed a quam eu lorem pretium fringilla. Vestibulum facilisis neque volutpat faucibus viverra. </EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S01E03</EpNumero>
+            <EpNome>Laços de Sangue</EpNome>
+            <EpOriginal>Blood Ties</EpOriginal>
+            <EpData>04/02/2016</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Rip decide enfraquecer Vandal Savage indo atrás de seus bens financeiros. Rip e Sara se infiltram no banco de Savage, mas são descobertos pelos homens do vilão. Enquanto isso, Snart e Rory convencem Jax a levar a nave de volta a Central City para que eles possam roubar uma valiosa esmeralda. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S01E04</EpNumero>
+            <EpNome>Cavaleiros Brancos</EpNome>
+            <EpOriginal>White Knights</EpOriginal>
+            <EpData>07/02/2016</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Vandal Savage recua para a Cortina de Ferro no começo dos anos 80 e, como consequência, uma série de cientistas nucleares começam a desaparecer misteriosamente. O time segue o rastro de Vandal até o coração da União Soviética em uma tentativa de encontrar próximo alvo do vilão. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+        </Eps>
+
+      </Temp>
+
+      <Temp>
+        <Numero>2</Numero>
+
+        <Eps>
+          <Ep>
+            <EpNumero>S02E01</EpNumero>
+            <EpNome>Fora do Tempo</EpNome>
+            <EpOriginal>Out of Time</EpOriginal>
+            <EpData>13/10/2016</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Em 2016, o historiador Nate Heywood pede ajuda ao prefeito de Star City, Oliver Queen, para localizar a nave do tempo afundada e encontram apenas Mick a bordo, em estase. Depois de ser acordado, Mick diz a eles o que aconteceu. </EpSinopse>
+            <EpObs> Sed a quam eu lorem pretium fringilla. Vestibulum facilisis neque volutpat faucibus viverra. </EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S02E02</EpNumero>
+            <EpNome>A Sociedade de Justiça da América</EpNome>
+            <EpOriginal>The Justice Society of America</EpOriginal>
+            <EpData>20/10/2016</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> A Sociedade de Justiça da América encurrala e captura as Lendas, acreditando que eles são espiões nazistas. Nate revela que ele é neto de um membro da SJA, Henry. A SJA os liberta, já que pretendem obter informações sobre Baron Krieger, um capitão nazista. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S02E03</EpNumero>
+            <EpNome>Shogun</EpNome>
+            <EpOriginal>Shogun</EpOriginal>
+            <EpData>27/10/2016</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Amaya se infiltra na nave e ataca Mick, acreditando que ele é o responsável pela morte de Rex. Nate a impede usando sua habilidade meta-humana recém-desenvolvida, conseguindo se transformar em aço. Sara convence Amaya de que um viajante do tempo trapaceiro foi quem matou Rex. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S02E04</EpNumero>
+            <EpNome>Aberrações</EpNome>
+            <EpOriginal>Abominations</EpOriginal>
+            <EpData>03/11/2016</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> O time descobre sobre um Pirata do Tempo preso em Mississippi, em 1863. Chegando lá, eles encontram um homem negro chamado Henry Scott sendo perseguido por soldados confederados transformados em zumbis por causa de um vírus que o Pirata do Tempo trouxe. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+        </Eps>
+
+      </Temp>
+
+      <Temp>
+        <Numero>3</Numero>
+
+        <Eps>
+          <Ep>
+            <EpNumero>S03E01</EpNumero>
+            <EpNome>Aruba-Con</EpNome>
+            <EpOriginal>Aruba-Con</EpOriginal>
+            <EpData>10/10/2017</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Em Los Angeles, agora alterada, as Lendas encontram Rip, que revela que criou a "Agência do Tempo" para substituir o Conselho. Os agentes da Agência consertam os "anacronismos", e Rip separa as Lendas. Seis meses depois, as Lendas vivem vidas normais, nostálgicas em relação às suas aventuras anteriores. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S03E02</EpNumero>
+            <EpNome>O Show de Aberrações</EpNome>
+            <EpOriginal>Freakshow</EpOriginal>
+            <EpData>17/10/2017</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Seis meses atrás, Amaya descobriu sobre o vigilantismo de Mari e, de repente, abandonou Nate. No presente, as Lendas se dirigem a um pequeno anacronismo em Wisconsin, no ano de 1870, onde eles interrompem uma apresentação de circo de P.T. Barnum, que capturou um tigre dentes-de-sabre extinto. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S03E03</EpNumero>
+            <EpNome>Zari</EpNome>
+            <EpOriginal>Zari</EpOriginal>
+            <EpData>24/10/2016</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Em Seattle, em 2042, o Agente da Agência do Tempo, Gary, descobre que a assassina hidrocinética Kuasa está perseguindo Zari, uma hacktivista, e envia um sinal de socorro. As Lendas o recebem e encontram Seattle sendo comandada pela lei marcial da A.R.G.U.S., que está caçando meta-humanos. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S03E04</EpNumero>
+            <EpNome>O Telefone de Casa</EpNome>
+            <EpOriginal>Phone Home</EpOriginal>
+            <EpData>31/10/2017</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Ray desaparece de repente no Cavaleiro do Tempo, e Gideon revela que ele morreu por volta do Halloween de 1988. As Lendas viajam até 1988, onde Ray reaparece e descobre que seu eu mais novo adotou um bebê Dominador. </EpSinopse>
+            <EpObs> Sed a quam eu lorem pretium fringilla. Vestibulum facilisis neque volutpat faucibus viverra. </EpObs>
+          </Ep>
+        </Eps>
+
+      </Temp>
+
+      <Temp>
+        <Numero>4</Numero>
+
+        <Eps>
+          <Ep>
+            <EpNumero>S04E01</EpNumero>
+            <EpNome>O Virgem Gary</EpNome>
+            <EpOriginal>The Virgin Gary</EpOriginal>
+            <EpData>22/10/2018</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> As Lendas e a Agência do Tempo comemoram um trabalho bem feito, enquanto Zari castiga Ray por permitir que Nora Darhk escapasse. Ava e Sara reacendem seu relacionamento. Constantine tenta avisar Sara sobre a escuridão chegando, mas Sara o dispensa. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S04E02</EpNumero>
+            <EpNome>Caça às Bruxas</EpNome>
+            <EpOriginal>Witch Hunt</EpOriginal>
+            <EpData>29/10/2018</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> As Lendas conectam os ossos de detecção mágica no Waverider para permitir que eles rastreiem fugitivos mágicos. Constantine se junta às Lendas como um consultor mágico, com sua primeira missão levando-os aos Julgamentos das Bruxas de Salem. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S04E03</EpNumero>
+            <EpNome>A Rainha da Dança</EpNome>
+            <EpOriginal>Dancing Queen</EpOriginal>
+            <EpData>05/11/2018</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> A equipe rastreia outro fugitivo mágico para Londres, com uma nova banda de punk rock chamada "The Smell", favorita da Rainha. Constantineo levanta a hipótese de que o fugitivo é um duende e está se passando por um membro do bando. </EpSinopse>
+            <EpObs> Sed a quam eu lorem pretium fringilla. Vestibulum facilisis neque volutpat faucibus viverra. </EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S04E04</EpNumero>
+            <EpNome>Chatice Americana Quente e Molhada</EpNome>
+            <EpOriginal>Wet Hot American Bummer</EpOriginal>
+            <EpData>12/11/2018</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Ava se junta à equipe para ajudar na investigação de crianças desaparecendo em um acampamento de verão em 1995. A equipe se apresenta como conselheira do acampamento enquanto rastreia uma criatura do pântano que está sequestrando as crianças. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+        </Eps>
+
+      </Temp>
+
+      <Temp>
+        <Numero>5</Numero>
+
+        <Eps>
+          <Ep>
+            <EpNumero>S05E02</EpNumero>
+            <EpNome>Conheçam as Lendas</EpNome>
+            <EpOriginal>Meet the Legends</EpOriginal>
+            <EpData>21/01/2018</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Após os eventos de Hey World e a derrota de Neron, as Lendas se tornaram heróis públicos. Com a Agência do Tempo desmontado, Ava Sharpe se junta aos Legends e permite que uma equipe de documentários os filme para que possam levantar fundos. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S05E02</EpNumero>
+            <EpNome>Senhorita Me Ame, Me Beije</EpNome>
+            <EpOriginal>Miss Me, Kiss Me, Love Me</EpOriginal>
+            <EpData>04/02/2020</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> As Lendas seguem para 1947, onde o mafioso Bugsy Siegel foi revivido, com Mona cunhando o termo "Encore" para esses indivíduos revividos. Com seu novo sopro de vida, Bugsy planeja chegar ao topo do mundo do crime tornando-se um corretor de informações. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S05E03</EpNumero>
+            <EpNome>Mate Qualquer Coisa</EpNome>
+            <EpOriginal>Slay Anything</EpOriginal>
+            <EpData>11/02/2020</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Ray acredita que os Encores podem ser interrompidos reformando-os no passado. As Lendas testam essa ideia quando o assassino em série Freddy Meyers é encored em 2004 e ataca sua reunião de colégio. </EpSinopse>
+            <EpObs> Sed a quam eu lorem pretium fringilla. Vestibulum facilisis neque volutpat faucibus viverra. </EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S05E04</EpNumero>
+            <EpNome>A Cabeça de Seu Tempo</EpNome>
+            <EpOriginal>A Head of Her Time</EpOriginal>
+            <EpData>18/02/2020</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Sara deixa Ava encarregada das Lendas enquanto ela segue para Star City a negócios. Um Encore aparece em 1793 na França, causando um massacre. As Lendas investigam, encontrando Marie Antoinette, que foi encored após sua execução. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+        </Eps>
+
+      </Temp>
+
+      <Temp>
+        <Numero>6</Numero>
+
+        <Eps>
+          <Ep>
+            <EpNumero>S06E01</EpNumero>
+            <EpNome>Ground Control to Sara Lance</EpNome>
+            <EpOriginal>Ground Control to Sara Lance</EpOriginal>
+            <EpData>02/05/2021</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Depois de uma noite de festa em Londres em 1977 após a derrota de Lachesis, Ava Sharpe percebe que Sara Lance está desaparecida e aprende com David Bowie que ela ia propor, mas foi abduzida por alienígenas. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S06E02</EpNumero>
+            <EpNome>Meat: The Legends</EpNome>
+            <EpOriginal>Meat: The Legends</EpOriginal>
+            <EpData>09/05/2021</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> As Lendas rastreiam um alienígena até San Bernardino, Califórnia em 1955, antes da morte de toda a cidade. No Big Bang Burger, a lanchonete popular administrada por Bert Beeman, Mick fica sabendo por meio de um rádio da polícia sobre ataques a lugares com carne. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S06E03</EpNumero>
+            <EpNome>The Ex-Factor</EpNome>
+            <EpOriginal>The Ex-Factor</EpOriginal>
+            <EpData>16/05/2021</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> The Legends viajam para Hollywood em 2045 para impedir um alienígena chamado Lord Knoxicrillion de matar DJ S'More Money, ex-namorado de Zari, que está julgando uma competição chamada "Da Throne", mas S'More Money acredita que seja um intérprete e os promova às finais. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+        </Eps>
+
+      </Temp>
+
+    </Temps>
+    
+  </SERIE>
+
+  <SERIE>
+    <Codigo>4</Codigo>
+    <Nome> WandaVision </Nome>
+    <Original> WandaVision </Original>
+    <Ano> 2021 </Ano>
+    <Categorias>
+      <Categoria>Ação</Categoria>
+      <Categoria>Comédia</Categoria>
+      <Categoria>Sitcom</Categoria>
+    </Categorias>
+    <Foto>WandaVision.png</Foto>
+    <Sinopse> Após os eventos de "Vingadores: Endgame" (2019), Wanda Maximoff/Feiticeira Escarlate (Elizabeth Olsen) e Visão (Paul Bettany) se esforçam para levar uma vida normal no subúrbio e esconder seus poderes. Mas a dupla de super-heróis logo começa a suspeitar que nem tudo está tão certo assim. Eles se encontram, na verdade, dentro de uma constante sitcom, que vai desde a década de 50 até os dias de hoje. Conforme o tempo passa, Wanda e Visão perdem o controle da situação, sem saber mais o que é real e o que é ficção. Eles ficam presos em um eterno vai e vem: da Era de Ouro da TV nos EUA, com imagens em preto e branco, ao presente - e vice-versa. </Sinopse>
+    <Episodios> 9 </Episodios>
+    <Temporadas> 1 </Temporadas>
+
+    <Temps>
+
+      <Temp>
+        <Numero>1</Numero>
+
+        <Eps>
+          <Ep>
+            <EpNumero>S01E01</EpNumero>
+            <EpNome>Gravado Ao Vivo Com Plateia</EpNome>
+            <EpOriginal>Filmed Before a Live Studio Audience</EpOriginal>
+            <EpData>15/01/2021</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Durante a década de 1950, os recém-casados Wanda e Visão mudam-se para a cidade de Westview. Eles tentam se misturar, apesar de Visão ser um andróide e Wanda ter habilidades telecinéticas. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S01E02</EpNumero>
+            <EpNome>Não Mude de Canal</EpNome>
+            <EpOriginal>Don't Touch That Dial</EpOriginal>
+            <EpData>15/01/2021</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Durante a década de 1960, Wanda e Visão começam a ouvir ruídos estranhos fora de sua casa. No dia seguinte, eles preparam números de mágica para um show de talentos do bairro. </EpSinopse>
+            <EpObs> Sed a quam eu lorem pretium fringilla. Vestibulum facilisis neque volutpat faucibus viverra. </EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S01E03</EpNumero>
+            <EpNome>Agora em Cores</EpNome>
+            <EpOriginal>Now in Color</EpOriginal>
+            <EpData>22/01/2021</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Durante a década de 1970, o Dr. Nielson verifica a gravidez de Wanda, diz que ela está com quatro meses e que está tudo bem, antes de partir para as férias planejadas com sua esposa. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S01E04</EpNumero>
+            <EpNome>Interrompemos Este Programa</EpNome>
+            <EpOriginal>We Interrupt This Program</EpOriginal>
+            <EpData>29/01/2021</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> A capitã Monica Rambeau, uma agente da S.W.O.R.D., retorna à vida após o Estalo[b] e descobre que sua mãe, Maria, morreu de câncer. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+        </Eps>
+
+      </Temp>
+      
+    </Temps>
+  </SERIE>
+
+  <SERIE>
+    <Codigo>5</Codigo>
+    <Nome> Falcão e o Soldado Invernal </Nome>
+    <Original> The Falcon and The Winter Soldier </Original>
+    <Ano> 2021 </Ano>
+    <Categorias>
+      <Categoria>Ação</Categoria>
+      <Categoria>Aventura</Categoria>
+      <Categoria>Fantasia</Categoria>
+    </Categorias>
+    <Foto>FalcaoSoldado.jpg</Foto>
+    <Sinopse> Na série do Disney+ Falcão e o Soldado Invernal, após receber o manto do Capitão América em Vingadores: Ultimato, Sam Wilson/Falcão (Anthony Mackie) luta para assumir o posto do herói. Ele se junta, então, a Bucky Barnes/Soldado Invernal (Sebastian Stan), embarcando em uma aventura mundial que vai colocar à prova as habilidades dos dois. Entre discussões e entendimentos, acompanhamos uma jornada no desenvolvimento da amizade entre ambos, ao mesmo tentam em que tentam deixar para trás os problemas do passado. Enquanto o Falcão sente a responsabilidade do escudo de Steve Rogers, Bucky tenta lidar com a própria culpa por suas ações enquanto estava sob comando da Hydra. </Sinopse>
+    <Episodios> 6 </Episodios>
+    <Temporadas> 1 </Temporadas>
+
+    <Temps>
+
+      <Temp>
+        <Numero>1</Numero>
+
+        <Eps>
+          <Ep>
+            <EpNumero>S01E01</EpNumero>
+            <EpNome>Nova Ordem Mundial</EpNome>
+            <EpOriginal>New World Order</EpOriginal>
+            <EpData>19/03/2021</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Depois que metade de toda a vida voltou do Blip[b], cinco anos após seu desaparecimento, Sam Wilson / Falcão trabalha com a Força Aérea dos EUA na Tunísia para rastrear um avião sequestrado por Georges Batroc e membros do grupo terrorista LAF. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S01E02</EpNumero>
+            <EpNome>O Herói Americano</EpNome>
+            <EpOriginal>The Star-Spangled Man</EpOriginal>
+            <EpData>26/03/2021</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> John Walker faz uma aparição no programa Good Morning America como Capitão América e revela seu desejo de viver à altura o manto de Steve Rogers. </EpSinopse>
+            <EpObs> Sed a quam eu lorem pretium fringilla. Vestibulum facilisis neque volutpat faucibus viverra. </EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S01E03</EpNumero>
+            <EpNome>Mercador do Poder</EpNome>
+            <EpOriginal>Power Broker</EpOriginal>
+            <EpData>02/04/2021</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Sem o conhecimento de Sam, Bucky orquestra um motim na prisão para ajudar Zemo a escapar, concordando em ajudar a deter os Apátridas. Eles viajam para Madripoor, uma cidade-estado santuário do crime, e se encontram com Selby, uma criminosa de alto escalão. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S01E04</EpNumero>
+            <EpNome>O Mundo Está Vendo</EpNome>
+            <EpOriginal>The Whole World is Watching</EpOriginal>
+            <EpData>09/04/2021</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Ayo dá a Bucky oito horas para usar Zemo antes que os Wakandanos o levem, pois Zemo matou seu rei, T'Chaka. Zemo ajuda a encontrar Morgenthau em um funeral de sua mãe adotiva, onde Walker e Hoskins os interceptam. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+        </Eps>
+
+      </Temp>
+
+    </Temps>
+  </SERIE>
+
+  <SERIE>
+    <Codigo>6</Codigo>
+    <Nome> Marvel's Inhumans </Nome>
+    <Original> Marvel's Inhumans </Original>
+    <Ano> 2017 </Ano>
+    <Categorias>
+      <Categoria>Ação</Categoria>
+      <Categoria>Drama</Categoria>
+      <Categoria>Ficção Científica</Categoria>
+    </Categorias>
+    <Foto>Inhumans.jpg</Foto>
+    <Sinopse> Uma voz que pode destruir cidades, cabelos que são mortais e pés que causam terremotos. Esses são alguns dos poderes dos Inumanos, um grupo de seres raros e poderosos, que apesar da ascendência de humanos comuns, foram modificados após sucessivos testes realizados por uma raça de alienígenas conhecida como Kree. Organizados por um sistema de castas, eles são liderados pela Família Real, que vai fazer de tudo para manter a ordem na sociedade. </Sinopse>
+    <Episodios> 8 </Episodios>
+    <Temporadas> 1 </Temporadas>
+
+    <Temps>
+
+      <Temp>
+        <Numero>1</Numero>
+
+        <Eps>
+          <Ep>
+            <EpNumero>S01E01</EpNumero>
+            <EpNome>Os Inumanos Chegam Na Terra</EpNome>
+            <EpOriginal>Behold... The Inhumans</EpOriginal>
+            <EpData>29/09/2017</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Rixa entre irmãos para salvar o futuro de seu povo </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S01E02</EpNumero>
+            <EpNome>Aqueles Que Irão Nos Destruir</EpNome>
+            <EpOriginal>Those Who Would Destroy Us</EpOriginal>
+            <EpData>29/09/2017</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> A Família Real foge para o Havaí depois de um golpe </EpSinopse>
+            <EpObs> Sed a quam eu lorem pretium fringilla. Vestibulum facilisis neque volutpat faucibus viverra. </EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S01E03</EpNumero>
+            <EpNome>Dividir e Conquistar</EpNome>
+            <EpOriginal>Divide and Conquer</EpOriginal>
+            <EpData>06/10/2017</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Os Inumanos precisam descobrir em quem podem confiar na Terra </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S01E04</EpNumero>
+            <EpNome>Arrume Um Jeito Para Medusa</EpNome>
+            <EpOriginal>Make Way for... Medusa</EpOriginal>
+            <EpData>13/10/2017</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Medusa está perto de encontrar Raio Negro </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+        </Eps>
+
+      </Temp>
+
+    </Temps>
+  </SERIE>
+
+  <SERIE>
+    <Codigo>7</Codigo>
+    <Nome> The Mandalorian </Nome>
+    <Original> The Mandalorian </Original>
+    <Ano> 2019 </Ano>
+    <Categorias>
+      <Categoria>Drama</Categoria>
+      <Categoria>Ficção Científica</Categoria>
+      <Categoria>Western Espacial</Categoria>
+    </Categorias>
+    <Foto>Mandalorian.jpg</Foto>
+    <Sinopse> Em The Mandalorian, Din Djarin (Pedro Pascal) é um guerreiro solitário que trabalha como caçador de recompensa. Ele embarca numa jornada pelos territórios esquecidos da galáxia, logo após a queda do Império e antes da criação da temida Primeira Ordem. </Sinopse>
+    <Episodios> 16 </Episodios>
+    <Temporadas> 2 </Temporadas>
+
+    <Temps>
+
+      <Temp>
+        <Numero>1</Numero>
+
+        <Eps>
+          <Ep>
+            <EpNumero>S01E01</EpNumero>
+            <EpNome>Capítulo 1: O Mandaloriano</EpNome>
+            <EpOriginal>Chapter 1: The Mandalorian</EpOriginal>
+            <EpData>12/11/2019</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Cinco anos após a queda do Império Galáctico, um caçador de recompensas Mandaloriano entrega sua mais recente recompensa para Greef Karga. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S01E02</EpNumero>
+            <EpNome>Capítulo 2: A Criança</EpNome>
+            <EpOriginal>Chapter 2: The Child</EpOriginal>
+            <EpData>15/11/2019</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Ao retornar à sua nave com a Criança, o Mandaloriano luta e mata um grupo de caçadores de recompensa rivais que o emboscam. Perto de sua nave, ele descobre que ela foi saqueada por Jawas em busca de peças e decide confrontá-los violentamente. </EpSinopse>
+            <EpObs> Sed a quam eu lorem pretium fringilla. Vestibulum facilisis neque volutpat faucibus viverra. </EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S01E03</EpNumero>
+            <EpNome>Capítulo 3: O Pecado</EpNome>
+            <EpOriginal>Chapter 3: The Sin</EpOriginal>
+            <EpData>22/11/2019</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> O Mandaloriano entrega a Criança ao Cliente em Nevarro e coleta a recompensa de vinte barras de aço de Beskar. De maneira incomum, o Mandaloriano pergunta sobre os planos do Cliente para a Criança, mas ele diz que isso não é da sua conta. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S01E04</EpNumero>
+            <EpNome>Capítulo 4: Santuário</EpNome>
+            <EpOriginal>Chapter 4: Sanctuary</EpOriginal>
+            <EpData>29/11/2019</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Chegando em um planeta florestal escassamente povoado chamado Sorgan, o Mandaloriano encontra Cara Dune, uma ex-soldado rebelde que se tornou mercenária. Após uma curta briga, Dune explica que está se escondendo depois de ter se aposentado antecipadamente e pede ao Mandaloriano para sair daquele lugar. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+        </Eps>
+
+      </Temp>
+
+      <Temp>
+        <Numero>2</Numero>
+
+        <Eps>
+          <Ep>
+            <EpNumero>S02E01</EpNumero>
+            <EpNome>Capítulo 9: O Xerife</EpNome>
+            <EpOriginal>Chapter 9: The Marshal</EpOriginal>
+            <EpData>30/10/2020</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> O Mandaloriano foi encarregado de devolver sua carga, uma criança, ao seu povo, os Jedi. Ele começa a procurar outros Mandalorianos que ele acredita que podem ajudá-lo a encontrar os Jedi, e é direcionado a um suposto Mandaloriano operando na cidade de Mos Pelgo, em Tatooine. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S02E02</EpNumero>
+            <EpNome>Capítulo 10: A Passageira</EpNome>
+            <EpOriginal>Chapter 10: The Passenger</EpOriginal>
+            <EpData>06/11/2020</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> O Mandaloriano concorda em levar uma Mulher Sapo e seus ovos de Tatooine para a lua do estuário Trask, onde seu marido fertilizará os ovos, em troca de informações sobre outros Mandalorianos. Devido à fragilidade dos ovos, eles devem viajar em velocidades lentas "sub-leves". </EpSinopse>
+            <EpObs> Sed a quam eu lorem pretium fringilla. Vestibulum facilisis neque volutpat faucibus viverra. </EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S02E03</EpNumero>
+            <EpNome>Capítulo 11: A Herdeira</EpNome>
+            <EpOriginal>Chapter 11: The Heiress</EpOriginal>
+            <EpData>13/11/2020</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> Uma vez em Trask, a Senhora Sapo se reúne com seu marido e os Mandalorianos embarcam em um navio de pesca seguindo uma pista que ele tinha sobre outros Mandalorianos, que se revela como uma emboscada. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+
+          <Ep>
+            <EpNumero>S02E04</EpNumero>
+            <EpNome>Capítulo 12: O Cerco</EpNome>
+            <EpOriginal>Chapter 12: The Siege</EpOriginal>
+            <EpData>20/11/2020</EpData>
+            <EpTempo>43min</EpTempo>
+            <EpSinopse> A Razor Crest requer mais reparos antes de chegar a Corvus, então o Mandalorian e a criança fazem um desvio para Nevarro, onde são reunidos com seus aliados Cara Dune e Greef Karga. </EpSinopse>
+            <EpObs></EpObs>
+          </Ep>
+        </Eps>
+
+      </Temp>
+
+    </Temps>
+  </SERIE>
+  
+</SERIES>

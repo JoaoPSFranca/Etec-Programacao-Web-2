@@ -1,0 +1,4 @@
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.PWII\Licoes\2021-05-25_XML\prj35347_XML\prj35347_XML\bin\prj35347_XML.dll
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.PWII\Licoes\2021-05-25_XML\prj35347_XML\prj35347_XML\bin\prj35347_XML.pdb
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.PWII\Licoes\2021-05-25_XML\prj35347_XML\prj35347_XML\obj\Debug\prj35347_XML.dll
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.PWII\Licoes\2021-05-25_XML\prj35347_XML\prj35347_XML\obj\Debug\prj35347_XML.pdb

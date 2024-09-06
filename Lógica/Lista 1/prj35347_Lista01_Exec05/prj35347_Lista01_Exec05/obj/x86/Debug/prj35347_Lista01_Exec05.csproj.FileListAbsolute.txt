@@ -1,0 +1,7 @@
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.PWII\Licoes\Lógica\Lista 1\prj35347_Lista01_Exec05\prj35347_Lista01_Exec05\bin\Debug\prj35347_Lista01_Exec05.exe
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.PWII\Licoes\Lógica\Lista 1\prj35347_Lista01_Exec05\prj35347_Lista01_Exec05\bin\Debug\prj35347_Lista01_Exec05.pdb
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.PWII\Licoes\Lógica\Lista 1\prj35347_Lista01_Exec05\prj35347_Lista01_Exec05\obj\x86\Debug\prj35347_Lista01_Exec05.frm35347_Lista01_Exec05.resources
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.PWII\Licoes\Lógica\Lista 1\prj35347_Lista01_Exec05\prj35347_Lista01_Exec05\obj\x86\Debug\prj35347_Lista01_Exec05.Properties.Resources.resources
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.PWII\Licoes\Lógica\Lista 1\prj35347_Lista01_Exec05\prj35347_Lista01_Exec05\obj\x86\Debug\prj35347_Lista01_Exec05.csproj.GenerateResource.Cache
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.PWII\Licoes\Lógica\Lista 1\prj35347_Lista01_Exec05\prj35347_Lista01_Exec05\obj\x86\Debug\prj35347_Lista01_Exec05.exe
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.PWII\Licoes\Lógica\Lista 1\prj35347_Lista01_Exec05\prj35347_Lista01_Exec05\obj\x86\Debug\prj35347_Lista01_Exec05.pdb

@@ -1,0 +1,4 @@
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.PWII\Licoes\prjExemplo1\prjExemplo1\bin\prjExemplo1.dll
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.PWII\Licoes\prjExemplo1\prjExemplo1\bin\prjExemplo1.pdb
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.PWII\Licoes\prjExemplo1\prjExemplo1\obj\Debug\prjExemplo1.dll
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.PWII\Licoes\prjExemplo1\prjExemplo1\obj\Debug\prjExemplo1.pdb

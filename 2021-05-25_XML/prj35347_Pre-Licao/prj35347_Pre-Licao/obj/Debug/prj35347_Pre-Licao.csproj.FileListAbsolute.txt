@@ -1,0 +1,4 @@
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.PWII\Licoes\2021-05-25_XML\prj35347_Pre-Licao\prj35347_Pre-Licao\bin\prj35347_Pre-Licao.dll
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.PWII\Licoes\2021-05-25_XML\prj35347_Pre-Licao\prj35347_Pre-Licao\bin\prj35347_Pre-Licao.pdb
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.PWII\Licoes\2021-05-25_XML\prj35347_Pre-Licao\prj35347_Pre-Licao\obj\Debug\prj35347_Pre-Licao.dll
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.PWII\Licoes\2021-05-25_XML\prj35347_Pre-Licao\prj35347_Pre-Licao\obj\Debug\prj35347_Pre-Licao.pdb

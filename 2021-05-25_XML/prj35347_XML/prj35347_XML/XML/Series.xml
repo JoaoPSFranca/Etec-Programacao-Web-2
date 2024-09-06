@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<SERIES>
+
+  <SERIE>
+    <Nome> Flash </Nome>
+    <Descricao> The Flash - 2014 - Ação, Drama, Ficção Científica </Descricao>
+  </SERIE>
+
+  <SERIE>
+    <Nome> Arqueiro </Nome>
+    <Descricao> Arrow - 2012 - Ação, Aventura, Mistério </Descricao>
+  </SERIE>
+
+  <SERIE>
+    <Nome> Lendas do Amanhã da DC </Nome>
+    <Descricao> DC's Legends of Tomorrow - 2016 - Aventura, Comédia, Ficção Científica </Descricao>
+  </SERIE>
+
+  <SERIE>
+    <Nome> Wanda e Visão </Nome>
+    <Descricao> WandaVision - 2021 - Ação, Comédia, Sitcom </Descricao>
+  </SERIE>
+
+  <SERIE>
+    <Nome> Falcão e o Soldado Invernal </Nome>
+    <Descricao> The Falcon and The Winter Soldier - 2021 - Ação, Aventura, Fantasia </Descricao>
+  </SERIE>
+
+  <SERIE>
+    <Nome> Inumanos </Nome>
+    <Descricao> Marvel's Inhumans - 2017 - Ação, Drama, Ficção Científica </Descricao>
+  </SERIE>
+
+  <SERIE>
+    <Nome> O Mandaloriano </Nome>
+    <Descricao> The Mandalorian - 2019 - Drama, Ficção Científica, Western espacial </Descricao>
+  </SERIE>
+  
+</SERIES>

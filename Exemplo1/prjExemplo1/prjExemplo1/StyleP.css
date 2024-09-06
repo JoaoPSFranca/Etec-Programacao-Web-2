@@ -1,0 +1,90 @@
+﻿*{margin: 0; padding: 0;}
+
+body{
+    background-image: url(images/madeira.png);
+}
+
+header{
+    background-color: rgba(255, 235, 122, 0.5);
+}
+
+.H{
+    color: Black;
+    text-decoration: none;
+}
+
+.mom{
+    width:8%;
+    height:8%;
+    margin-left:2%;
+    margin-top:1%;
+    margin-bottom: 1%;
+    margin-right: 1%;
+    float: left;
+}    
+
+nav{
+    width: 500px; 
+    position: absolute;
+    left: 35%;
+    top: 5.5%;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    display: inline-block; 
+    margin-left: 100px; 
+    font-size: 130%; 
+}
+
+    li:hover{
+        color: darkred;
+    }
+
+.father{
+    padding: 3.5%;
+    font-size: 200%;
+}
+
+.father:hover{
+    color: darkred;
+}
+
+form{
+	position: absolute;
+	margin: auto;
+	top: 20%;
+	left: 35%;
+    background-color: #eaeef1;
+	border: 1px solid black;
+	border-radius: 20px;
+	padding: 30px;
+	width: 330px;
+}
+
+div{
+	margin: auto;
+	padding-left: 15px;
+}
+
+p{
+	font-size: 25px;
+}
+
+.son{
+    width: 300px;
+    height: 95px;
+}
+
+form h1{
+   Text-align: center; 
+}
+
+button{
+    margin: 0% 40%;
+    width: 20%;
+    height: 35%;
+}

@@ -1,0 +1,9 @@
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.PWII\Licoes\Lógica\Lista02_ASPNet\prj35347_Lista03\prj35347_Lista03\bin\prj35347_Lista03.dll
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.PWII\Licoes\Lógica\Lista02_ASPNet\prj35347_Lista03\prj35347_Lista03\bin\prj35347_Lista03.pdb
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.PWII\Licoes\Lógica\Lista02_ASPNet\prj35347_Lista03\prj35347_Lista03\obj\Debug\prj35347_Lista03.dll
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.PWII\Licoes\Lógica\Lista02_ASPNet\prj35347_Lista03\prj35347_Lista03\obj\Debug\prj35347_Lista03.pdb
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.PWII\Licoes\Lógica\Lista03_ASPNet\prj35347_Lista03\prj35347_Lista03\bin\prj35347_Lista03.dll
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.PWII\Licoes\Lógica\Lista03_ASPNet\prj35347_Lista03\prj35347_Lista03\bin\prj35347_Lista03.pdb
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.PWII\Licoes\Lógica\Lista03_ASPNet\prj35347_Lista03\prj35347_Lista03\obj\Debug\prj35347_Lista03.csprojResolveAssemblyReference.cache
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.PWII\Licoes\Lógica\Lista03_ASPNet\prj35347_Lista03\prj35347_Lista03\obj\Debug\prj35347_Lista03.dll
+C:\Users\franc\OneDrive\Escola\Etec 2º Ano\.PWII\Licoes\Lógica\Lista03_ASPNet\prj35347_Lista03\prj35347_Lista03\obj\Debug\prj35347_Lista03.pdb

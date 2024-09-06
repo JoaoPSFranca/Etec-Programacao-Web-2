@@ -1,0 +1,77 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    
+    <link href="StyleP.css" type="text/css" rel="Stylesheet"/>
+    <title> Pedido </title>
+
+</head>
+
+<body>
+
+    <header>
+        <figure>
+            <a href="index.htm" class="H"> <img src="images/icone.png" alt="ÍCone da pizzaria" class="mom"/>
+        </figure>
+        <h1 class="father H"> Karlabresa's Pizzas </h1> </a>
+        <nav>
+            <ul>
+                <h1> 
+                    <a href="cardapio.htm" class="H"> <li> Cardápio </li> </a>
+                    <a href="#" class="H"> <li> Pedidos </li> </a>
+                </h1>
+            </ul>
+        </nav>
+    </header>
+
+    <form name="CadastroPedido">
+        
+        <h1> Pedido </h1> <br>
+
+        <div>
+        
+            <h2> Informações do Pedido </h2> <br>
+                
+            <p> Conteúdo do pedido </p> 
+            <input type="checkbox" name="Pedido1" value="Pizza" required>
+                <label for="pedido1"> Pizza </label> <br>
+            <input type="checkbox" name="Pedido2" value="Bebida">
+                <label for="pedido2"> Bebida </label> <br>
+            <input type="checkbox" name="Pedido3" value="Sobremesa">
+                <label for="pedido3"> Sobremesa </label> <br>
+            <input type="checkbox" name="Pedido4" value="Acompanhamento">
+                <label for="pedido4"> Acompanhamento </label> <br>
+        </div>
+
+        <div style="padding-top:20px">
+
+            <h2> Informações do Cliente </h2> <br>
+
+            <p> Estado: </p> 
+                <input type="text" name="Estado" placeholder="Insira seu Estado" required> <br> <br>
+            
+            <p> Cidade: </p> 
+                <input type="text" name="Cidade" placeholder="Insira sua Cidade" required> <br> <br>
+            
+            <p> Rua: </p> 
+                <input type="text" name="Rua" placeholder="Insira sua Rua" required> <br> <br>
+            
+            <p> Número da casa/apt: </p> 
+                <input type="number" name="número" placeholder="Insira o número" required> <br> <br>
+            
+            <p> Tipo de Endereço: </p> 
+                <select name="TipoDeEndereço">
+                    <option value="Apartamento"> Apartamento </option>
+                    <option value="Casa"> Casa </option>
+                    <option value="Comercial"> Comercial </option>
+                </select> <br> <br>
+            
+            <p> Informações Adicionais: </p>
+                <input type="text" name="InformaçõesAdicionais" class="son"> <br> <br>
+        </div>
+
+        <button> Enviar </button>
+    </form>
+
+</body>
+</html>

@@ -1,0 +1,29 @@
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.PWII\Licoes\2021-11_Projeto_Interdisciplinar\prj35347_BDSeries\prj35347_BDSeries\bin\prj35347_BDSeries.dll
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.PWII\Licoes\2021-11_Projeto_Interdisciplinar\prj35347_BDSeries\prj35347_BDSeries\bin\prj35347_BDSeries.pdb
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.PWII\Licoes\2021-11_Projeto_Interdisciplinar\prj35347_BDSeries\prj35347_BDSeries\obj\Debug\prj35347_BDSeries.dll
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.PWII\Licoes\2021-11_Projeto_Interdisciplinar\prj35347_BDSeries\prj35347_BDSeries\obj\Debug\prj35347_BDSeries.pdb
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.PWII\Licoes\2021-11_Projeto_Interdisciplinar\prj35347_BDSeries\prj35347_BDSeries\obj\Debug\prj35347_BDSeries.csprojResolveAssemblyReference.cache
+C:\Users\aluno.ETECAF\Downloads\2021-11_Projeto_Interdisciplinar\prj35347_BDSeries\prj35347_BDSeries\bin\prj35347_BDSeries.dll
+C:\Users\aluno.ETECAF\Downloads\2021-11_Projeto_Interdisciplinar\prj35347_BDSeries\prj35347_BDSeries\bin\prj35347_BDSeries.pdb
+C:\Users\aluno.ETECAF\Downloads\2021-11_Projeto_Interdisciplinar\prj35347_BDSeries\prj35347_BDSeries\obj\Debug\prj35347_BDSeries.csprojResolveAssemblyReference.cache
+C:\Users\aluno.ETECAF\Downloads\2021-11_Projeto_Interdisciplinar\prj35347_BDSeries\prj35347_BDSeries\obj\Debug\prj35347_BDSeries.dll
+C:\Users\aluno.ETECAF\Downloads\2021-11_Projeto_Interdisciplinar\prj35347_BDSeries\prj35347_BDSeries\obj\Debug\prj35347_BDSeries.pdb
+C:\Users\TEMP\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.PWII\Licoes\2021-11_Projeto_Interdisciplinar\prj35347_BDSeries\prj35347_BDSeries\bin\prj35347_BDSeries.dll
+C:\Users\TEMP\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.PWII\Licoes\2021-11_Projeto_Interdisciplinar\prj35347_BDSeries\prj35347_BDSeries\bin\prj35347_BDSeries.pdb
+C:\Users\TEMP\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.PWII\Licoes\2021-11_Projeto_Interdisciplinar\prj35347_BDSeries\prj35347_BDSeries\obj\Debug\prj35347_BDSeries.csprojResolveAssemblyReference.cache
+C:\Users\TEMP\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.PWII\Licoes\2021-11_Projeto_Interdisciplinar\prj35347_BDSeries\prj35347_BDSeries\obj\Debug\prj35347_BDSeries.dll
+C:\Users\TEMP\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.PWII\Licoes\2021-11_Projeto_Interdisciplinar\prj35347_BDSeries\prj35347_BDSeries\obj\Debug\prj35347_BDSeries.pdb
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.PWII\Licoes\2021-11_Projeto_Interdisciplinar\prj35347_BDSeries\bin\prj35347_BDSeries.dll
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.PWII\Licoes\2021-11_Projeto_Interdisciplinar\prj35347_BDSeries\bin\prj35347_BDSeries.pdb
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.PWII\Licoes\2021-11_Projeto_Interdisciplinar\prj35347_BDSeries\obj\Debug\prj35347_BDSeries.csprojResolveAssemblyReference.cache
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.PWII\Licoes\2021-11_Projeto_Interdisciplinar\prj35347_BDSeries\obj\Debug\prj35347_BDSeries.dll
+C:\Users\User\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.PWII\Licoes\2021-11_Projeto_Interdisciplinar\prj35347_BDSeries\obj\Debug\prj35347_BDSeries.pdb
+C:\Users\franc\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.PWII\Licoes\2021-11_Projeto_Interdisciplinar\prj35347_BDSeries\bin\prj35347_BDSeries.dll.config
+C:\Users\franc\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.PWII\Licoes\2021-11_Projeto_Interdisciplinar\prj35347_BDSeries\bin\prj35347_BDSeries.dll
+C:\Users\franc\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.PWII\Licoes\2021-11_Projeto_Interdisciplinar\prj35347_BDSeries\bin\prj35347_BDSeries.pdb
+C:\Users\franc\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.PWII\Licoes\2021-11_Projeto_Interdisciplinar\prj35347_BDSeries\bin\MySql.Data.dll
+C:\Users\franc\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.PWII\Licoes\2021-11_Projeto_Interdisciplinar\prj35347_BDSeries\obj\Debug\prj35347_BDSeries.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.PWII\Licoes\2021-11_Projeto_Interdisciplinar\prj35347_BDSeries\obj\Debug\prj35347_BDSeries.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.PWII\Licoes\2021-11_Projeto_Interdisciplinar\prj35347_BDSeries\obj\Debug\prj35347_BDSeries.csproj.CopyComplete
+C:\Users\franc\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.PWII\Licoes\2021-11_Projeto_Interdisciplinar\prj35347_BDSeries\obj\Debug\prj35347_BDSeries.dll
+C:\Users\franc\OneDrive - Etec Centro Paula Souza\Tudo\Escola\Etec 2º Ano\.PWII\Licoes\2021-11_Projeto_Interdisciplinar\prj35347_BDSeries\obj\Debug\prj35347_BDSeries.pdb
